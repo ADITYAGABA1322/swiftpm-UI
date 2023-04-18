@@ -12,3 +12,6 @@ This walkthrough teaches you how to use lists and an observable data model to cr
 ## Running the Sample Code Project
 
 Before you run the sample on a physical device, select a Development Team under the Signing & Capabilities section in the project editor.
+
+![Memoji](https://user-images.githubusercontent.com/97380595/232689269-7d580d96-06ab-45e5-9fa0-7c2aace96c0d.png)
+
