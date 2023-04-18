@@ -5,13 +5,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+## Contents
+This repo is updated with  Swift 5.7.1 and compatible with iPhone 14:
+
+* Simple UIKit components
+* UIScrollView, UITableView, UICollectionView
+* CAAnimations and UIView Animations
+* Local Notification in iOS 16
+* MapKit, Contact, and Core ML frameworks
+* Core Data, Today Extension, and 3D touch
+* Popular Open Source Frameworks
+* Design Patterns
+* Test Driven Development, XCTest
+
 ## By developers and for developers
 
 I am an iOS developer and currently using Swift.
 
 **This repo does not merely follow tutorials, I re-build them with better code style and architecture design.**
 
-For code style, I strictly follow [raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide);
 
 For developers, I have a README file and screenshots for every single app in this repo, all details could be found there.
 
