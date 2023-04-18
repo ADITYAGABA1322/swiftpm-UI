@@ -16,11 +16,14 @@ Before you run the sample on a physical device, select a Development Team under 
 
 ## App Preview
 
+<img width="6106" alt="Screenshot 2023-04-18 at 12 00 11 PM" src="https://user-images.githubusercontent.com/97380595/232691359-7a4933f8-23ea-4e56-943f-186c5992a2f8.png">
+
 <img width="1512" alt="Screenshot 2023-04-18 at 11 59 22 AM" src="https://user-images.githubusercontent.com/97380595/232691328-bc201bb6-8b8d-4c95-9ccd-bafd1d4ab351.png">
 
-<img width="606" alt="Screenshot 2023-04-18 at 12 00 11 PM" src="https://user-images.githubusercontent.com/97380595/232691359-7a4933f8-23ea-4e56-943f-186c5992a2f8.png">
 
 
 
-![Memoji](https://user-images.githubusercontent.com/97380595/232689269-7d580d96-06ab-45e5-9fa0-7c2aace96c0d.png)
+
+
+
 
