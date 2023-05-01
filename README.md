@@ -2,6 +2,8 @@
 
 <img src="https://developer.apple.com/wwdc23/swift-student-challenge/images/wwdc-ssc-hero-large_2x.webp">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img src="https://www.eman.cz/wp-content/uploads/2019/10/header_swift_ui.jpg">
 
 
