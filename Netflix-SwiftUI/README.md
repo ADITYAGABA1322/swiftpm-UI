@@ -18,3 +18,10 @@ app. Views like VStack, HStack, and ZStack can be used to arrange and layer cont
 foregroundColor can adjust the layout and appearance of individual elements.
 
 Overall, the Netflix SwiftUI app showcases the power and flexibility of SwiftUI for creating complex and polished user interfaces.
+
+## App Preview
+
+
+
+<img width="1512" alt="Screenshot 2023-04-18 at 11 59 22 AM" src="https://user-images.githubusercontent.com/97380595/236645941-61af060e-4989-4345-b5d4-54f606d0f78c.png">
+
