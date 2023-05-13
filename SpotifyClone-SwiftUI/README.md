@@ -32,4 +32,4 @@ Spotify made with SwiftUI.
 
 
 
-<img width="6106" alt="Screenshot 2023-04-18 at 12 00 11 PM" src="https://user-images.githubusercontent.com/97380595/232691359-7a4933f8-23ea-4e56-943f-186c5992a2f8.png">
+<img width="6106" alt="Screenshot 2023-04-18 at 12 00 11 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/6a5c389d-46da-4279-bc13-8851212fd049">
