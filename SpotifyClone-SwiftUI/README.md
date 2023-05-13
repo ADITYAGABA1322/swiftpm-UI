@@ -27,7 +27,7 @@ Spotify made with SwiftUI.
 10.)"Effortlessly connect to your Spotify account and dive into a world of music with our beautifully designed SwiftUI login view."
 
 
-#App Preview
+# App Preview
 
 
 
