@@ -8,7 +8,6 @@ First up, you’ll learn to use the SwiftUI [Shape](doc://com.apple.documentatio
 
 You’ll learn the basics of animating views and how to create animations – some easy, some more complex!
 
-
 ## App Preview
 
 
