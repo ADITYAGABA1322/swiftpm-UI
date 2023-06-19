@@ -18,3 +18,9 @@ Overall, this Weeknd playlist made with SwiftUI offers a diverse selection of hi
 
 
 
+
+<img width="6106" alt="Screenshot 2023-06-19 at 9 58 22 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/583de19b-8fad-49cc-8c59-2daa3ffd4fdd">
+
+
+![Screenshot 2023-06-19 at 9 59 17 PM](https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/2855a357-6bac-4996-9b21-8ca1e12320ad)
+
