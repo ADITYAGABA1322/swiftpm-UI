@@ -18,4 +18,9 @@ Overall, a calculator made with SwiftUI provides a user-friendly interface for p
 ## App Preview
 
 
+<img width="6106" alt="Screenshot 2023-06-19 at 10 07 28 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/8f6d1b1d-f8cf-4e7e-a9d4-70fcc93f8e75">
+
+![Screenshot 2023-06-19 at 10 07 43 PM](https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/7bc9992e-a917-4956-8c4c-4cd0e42dde99)
+
+
 
