@@ -23,5 +23,9 @@ Overall, the Netflix SwiftUI app showcases the power and flexibility of SwiftUI 
 
 
 
+<img width="1512" alt="Screenshot 2023-06-20 at 2 02 03 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/41a90187-f009-4519-bf5b-ce2dd6da33e4">
+
+
+
 <img width="1512" alt="Screenshot 2023-04-18 at 11 59 22 AM" src="https://user-images.githubusercontent.com/97380595/236645941-61af060e-4989-4345-b5d4-54f606d0f78c.png">
 
