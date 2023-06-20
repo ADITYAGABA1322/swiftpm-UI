@@ -17,4 +17,5 @@ Overall, Scrumdinger offers a comprehensive set of features for teams practicing
 <img width="6512" alt="Screenshot 2023-06-20 at 2 02 03 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/ace840af-e62c-4ac1-b578-9a343b30c7bc">
 
 
-<img width="6512" alt="Screenshot 2023-06-20 at 2 02 03 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/41a90187-f009-4519-bf5b-ce2dd6da33e4">
+
+![Screenshot 2023-06-20 at 2 10 09 PM](https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/076955e8-a2c6-43c7-938f-e479f18323c3)
