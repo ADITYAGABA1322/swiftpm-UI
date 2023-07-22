@@ -24,9 +24,7 @@ yourself against the smart AI opponent. 🤖🎯 With every tap and swipe, witne
 # App Preview
 
 
+<img width="6106" alt="Screenshot 2023-04-18 at 12 00 11 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/288d1ff2-95ac-492b-a3bd-2659a0bf254e">
 
-![Screenshot 2023-07-23 at 1 28 35 AM](https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/288d1ff2-95ac-492b-a3bd-2659a0bf254e)
+<img width="6106" alt="Screenshot 2023-04-18 at 12 00 11 PM" src="https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/59c3fef2-31d8-4d77-8d6a-22a634cdced2">
 
-
-
-![Screenshot 2023-07-23 at 1 28 47 AM](https://github.com/ADITYAGABA1322/swiftpm-UI/assets/97380595/59c3fef2-31d8-4d77-8d6a-22a634cdced2)
